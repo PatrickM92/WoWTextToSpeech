@@ -1,0 +1,8 @@
+## Interface: 100005 
+## Title: TextToSpeech
+## Version: 0.1
+## Notes: Quest text to speech
+## Author: Patrick Walsh
+
+--Required, lets WoW know what Lua file it's looking for.
+helloWorld.xml
