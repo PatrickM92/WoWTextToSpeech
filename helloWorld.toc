@@ -5,4 +5,4 @@
 ## Author: Patrick Walsh
 
 --Required, lets WoW know what Lua file it's looking for.
-helloWorld.xml
+textToSpeech.xml
